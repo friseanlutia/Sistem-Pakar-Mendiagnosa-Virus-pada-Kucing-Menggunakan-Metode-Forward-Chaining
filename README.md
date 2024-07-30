@@ -1,2 +1,2 @@
-# sp_anemi_cf
-Aplikasi Sistem Pakar dengan Metode CF
+# sp_anemi_fc
+Aplikasi Sistem Pakar dengan Metode Forward Chaining
